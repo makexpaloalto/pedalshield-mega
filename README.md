@@ -1,2 +1,4 @@
 # pedalshield-mega
-# Effects files
+/*
+Existing effects from pedalshield forums + effects of my own
+*/
