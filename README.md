@@ -1,1 +1,2 @@
 # pedalshield-mega
+# Effects files
